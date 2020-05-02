@@ -6,7 +6,8 @@
 ### India fragment data :https://www.covid19india.org/
 ## App Preview
  
-![ezgif com-resize (2)](https://user-images.githubusercontent.com/47140660/80871338-99827400-8cc9-11ea-9b9b-73ac59f6e9a9.gif) ![ssScreenshot_20200411-191625](https://user-images.githubusercontent.com/47140660/80870877-cb460b80-8cc6-11ea-8307-6dc9007a8c8a.png)
+![ezgif com-resize (2)](https://user-images.githubusercontent.com/47140660/80871338-99827400-8cc9-11ea-9b9b-73ac59f6e9a9.gif) ![ssScreenshot_20200411-191625](https://user-images.githubusercontent.com/47140660/80870877-cb460b80-8cc6-11ea-8307-6dc9007a8c8a.png) ![Screenshot_20200502-230925](https://user-images.githubusercontent.com/47140660/80871417-23cad800-8cca-11ea-9e25-fdd7eda748dc.png)
+
 
 
 
