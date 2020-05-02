@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">corona-track</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Location</string>
+    <string name="title_notifications">World</string>
+    <string name="title_india">India Detail</string>
+    <string name="title_helpline">Helpline</string>
+    <string name="covid_19_tracker">Covid-19 Tracker</string>
+    <string name="todo">TODO</string>
+    <string name="made_with_love_in_india">Made With love in india</string>
+
+    <string name="settings_About">About</string>
+    <string name="settings_Disclaimer">Disclaimer</string>
+
+    <string name="link"><a href="https://github.com/sparsh308">Developed by Sparsh Kishore Kumar</a></string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
