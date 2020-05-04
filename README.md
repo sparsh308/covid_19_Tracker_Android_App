@@ -7,8 +7,9 @@
 #### India data :https://www.covid19india.org/
 
 ## Screenshots
+![download (3) (1)](https://user-images.githubusercontent.com/47140660/80975762-23544d80-8e40-11ea-9528-0bc69988439d.png)
 
-![download (3)](https://user-images.githubusercontent.com/47140660/80974491-6c0b0700-8e3e-11ea-897b-7325ac7deb3b.png)
+
 
 
 ### Found a Bug ?
