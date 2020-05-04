@@ -7,7 +7,13 @@
 #### India data :https://www.covid19india.org/
 
 ## Screenshots
-![download (3) (1)](https://user-images.githubusercontent.com/47140660/80975762-23544d80-8e40-11ea-9528-0bc69988439d.png)
+
+![download (1)](https://user-images.githubusercontent.com/47140660/80976812-885c7300-8e41-11ea-9394-82e27defce85.png)
+
+
+
+
+
 
 
 
